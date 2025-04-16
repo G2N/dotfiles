@@ -1,3 +1,10 @@
+#shame
+alias gti="git"
+alias got="git"
+alias gto="git"
+alias gut="git"
+alias gtu="git"
+
 # TAC shortcuts
 set TAC_STARFOX_DIR ~/starfox
 alias starfox="$TAC_STARFOX_DIR/bin/starfox"
